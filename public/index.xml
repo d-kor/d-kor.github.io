@@ -2,16 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Dario Korolija</title>
-    <link>https://d-kor.github.com/</link>
+    <link>https://d-kor.github.io/</link>
     <description>Recent content in About on Dario Korolija</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://d-kor.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://d-kor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>https://d-kor.github.com/contact/</link>
+      <title>About</title>
+      <link>https://d-kor.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://d-kor.github.com/contact/</guid>
+      <guid>https://d-kor.github.io/about/</guid>
+      <description>About Me Hi! I am a fourth-​year PhD student in Computer Science at ETH Zürich as a member of the Systems Group. I am supervised by Prof. Gustavo Alonso and co-​supervised by Prof. Dr. Timothy Roscoe.
+I work mostly at the intersection between software and hardware. My main research area is on creating novel abstractions for modern heterogeneous architectures. I usually spend most of my time hacking away in the fields of computer architecture, operating systems and networking (mostly RDMA).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://d-kor.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-kor.github.io/contact/</guid>
       <description>Email dario.korolija@inf.ethz.ch.
 Mailing Address Dario Korolija
 STF H 319 Stampfenbachstrasse 114
