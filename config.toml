@@ -1,4 +1,4 @@
-baseURL = 'https://d-kor.github.com/'
+baseURL = 'https://d-kor.github.io/'
 languageCode = 'en-us'
 title = 'Dario Korolija'
 theme = "researcher"
