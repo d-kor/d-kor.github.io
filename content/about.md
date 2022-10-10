@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me 
 
-Hi! I am a fourth-​year PhD student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as a member of the [Systems Group](https://systems.ethz.ch/). I am supervised by [Prof. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and co-​supervised by [Prof. Dr. Timothy Roscoe](https://people.inf.ethz.ch/troscoe/). 
+Hi! I am a fourth-​year PhD student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) as a member of the [Systems Group](https://systems.ethz.ch/). I am supervised by [Prof. Dr. Gustavo Alonso](https://people.inf.ethz.ch/alonso/) and co-​supervised by [Prof. Dr. Timothy Roscoe](https://people.inf.ethz.ch/troscoe/). 
 
 {{< figure class="avatar" src="/avatar.png" alt="avatar" width="200" height="200">}}
 
