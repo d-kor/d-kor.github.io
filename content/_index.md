@@ -18,15 +18,28 @@ Research interests:
 * Data Management
 * Compilers
 
+## Education
+
+:small_orange_diamond: **PhD in Computer Science**, 2018 - present <br />
+[*ETH Zürich*](https://ethz.ch/en.html), Switzerland
+
+:small_orange_diamond: **MsC in Electrical Engineering**, 2016 - 2018 <br />
+[*École Polytechnique Fédérale de Lausanne*](https://www.epfl.ch/en/), Switzerland 
+
+:small_orange_diamond: **BsC in Electrical Engineering and Computer Science**, 2012 - 2016 <br />
+[*University of Belgrade*](https://www.bg.ac.rs/en/), Serbia
+
 ## Experience
 
 During my studies I have interned at the following companies:
 
-* :small_red_triangle: **Hewlett Packard Enterprise**, California USA <br />
+* [:small_red_triangle: **Hewlett Packard Enterprise**](https://www.hpe.com/us/en/home.html), California USA <br />
 I worked on the open-source distributed object storage (*DAOS*). During the internship I explored novel system architectures and advantages of closely coupled server side operations utilizing heterogeneous hardware.
-* :small_red_triangle: **Microsoft Research**, Cambridge UK <br />
+
+* [:small_red_triangle: **Microsoft Research**](https://www.microsoft.com/en-us/research/), Cambridge UK <br />
 I worked on the *Honeycomb* project. The ultimate goal of the project was the creation of an RDMA, CPU-free distributed storage. I explored memory subsystem architectures for common B-tree abstractions.
-* :small_red_triangle: **ABB Research**, Baden Switzerland <br />
+
+* [:small_red_triangle: **ABB Research**](https://global.abb/group/en/technology/corporate-research-centers), Baden Switzerland <br />
 Investigation and development of security concepts and algorithms for embedded system devices. Implemented a SoC design of a proposed novel encryption scheme.
 
 ## Publications
